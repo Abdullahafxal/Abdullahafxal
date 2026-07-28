@@ -1,5 +1,10 @@
-# 💫 About Me:
-<br><br>Hi, I'm Muhammad Abdullah, a Junior DevOps Engineer with hands-on experience in AWS,<br> Linux, Docker, and CI/CD pipelines. I enjoy building, automating, and managing reliable <br>cloud infrastructure while continuously learning modern DevOps practices. During my <br>internship, I worked with AWS services such as EC2, S3, IAM, and CloudWatch, configured<br> Nginx web servers, automated deployments using Bitbucket Pipelines, and managed <br>DNS and SSL with Cloudflare. I'm currently expanding my skills in Terraform, Kubernetes, <br>and Infrastructure as Code. I'm passionate about solving real-world infrastructure <br>challenges, improving deployment workflows, and contributing to cloud-native and <br>open-source projects.<br>
+# 💫 About Me
+
+Hi, I'm **Muhammad Abdullah**, a Junior DevOps Engineer passionate about cloud computing, automation, and scalable infrastructure.
+
+I have hands-on experience with AWS, Linux, Docker, CI/CD pipelines, Nginx, Cloudflare, and Terraform. During my DevOps internship, I worked on deploying applications, configuring cloud infrastructure, automating deployments, and monitoring systems.
+
+I'm currently learning Kubernetes and advanced DevOps practices while building real-world cloud projects and contributing to open-source whenever possible.
 
 
 ## 🌐 Socials:
